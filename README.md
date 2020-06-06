@@ -1,8 +1,13 @@
-# Week 2: Bakery Solution
+# Week 2: Practice Exercise
 
 <p align="center">
   <img src="./BakerySolutions.PNG" />
 </p>
+
+\* | Name |
+--- | ---
+Project | **prjBakerySolution_Luchavez**
+App | **Bakery Solutions**
 
 ## Events
 
