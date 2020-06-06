@@ -76,7 +76,7 @@ Partial Class frmMain
         '
         Me.lblAppName.AutoSize = True
         Me.lblAppName.Font = New System.Drawing.Font("Brush Script MT", 48.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.lblAppName.Location = New System.Drawing.Point(198, 104)
+        Me.lblAppName.Location = New System.Drawing.Point(198, 97)
         Me.lblAppName.Name = "lblAppName"
         Me.lblAppName.Size = New System.Drawing.Size(329, 79)
         Me.lblAppName.TabIndex = 11
