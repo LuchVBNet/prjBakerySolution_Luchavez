@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30114.128
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prjBakerySolution_Luchavez", "prjBakerySolution_Luchavez\prjBakerySolution_Luchavez.vbproj", "{96E2FF50-E606-42B9-A33E-E464881E3DA0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2B7DB26C-29D4-4A7C-A344-56C00DA935A7}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
